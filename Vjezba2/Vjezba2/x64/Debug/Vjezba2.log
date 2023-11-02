@@ -1,0 +1,13 @@
+﻿  Vj2.cpp
+C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba2\Vjezba2\Vj2.hpp(81,47): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba2\Vjezba2\Vj2.hpp(81,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba2\Vjezba2\Vj2.cpp(17,19): warning C4101: 'mlt': unreferenced local variable
+  Vjezba2.vcxproj -> C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba2\x64\Debug\Vjezba2.exe
