@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba4\Vjezba 4\Vjezba 4\header.hpp(119,23): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba4\Vjezba 4\Vjezba 4\header.hpp(119,18): warning C4309: 'argument': truncation of constant value
+C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba4\Vjezba 4\Vjezba 4\header.hpp(134,28): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba4\Vjezba 4\Vjezba 4\header.hpp(134,24): warning C4309: 'argument': truncation of constant value
+  Vjezba 4.vcxproj -> C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba4\Vjezba 4\x64\Debug\Vjezba 4.exe
