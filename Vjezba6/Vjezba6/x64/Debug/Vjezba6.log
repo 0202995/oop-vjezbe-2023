@@ -1,0 +1,5 @@
+﻿  functions.cpp
+C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba6\Vjezba6\functions.cpp(4,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  Vjezba6.vcxproj -> C:\Users\ivani\Desktop\3.Semestar 2023-2024\OOP 2023\Vjezba6\x64\Debug\Vjezba6.exe
